@@ -1,0 +1,8 @@
+Menger Money No Marginal Valuation
+Model of the emergence of money that does not include agents that value marginal units of goods.
+You must have installed NetLogo, R, and the RNetLogo package on R.
+
+The project files are;
+MengMonNoMV.nlogo - main NetLogo model file
+DataAnalysisNoMV.r - r script for model analysis that uses the RNetLogo package.
+
